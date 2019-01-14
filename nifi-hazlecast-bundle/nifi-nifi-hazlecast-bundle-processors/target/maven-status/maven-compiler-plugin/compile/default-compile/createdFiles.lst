@@ -1,3 +1,0 @@
-org/apache/nifi/processors/hazelcast/processors/PutHazlecastMap.class
-org/apache/nifi/processors/hazelcast/processors/PutFlowFile.class
-org/apache/nifi/processors/hazelcast/processors/GetHazlecastMap.class
